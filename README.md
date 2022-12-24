@@ -13,6 +13,12 @@
 3. Cytology
 
 |주차|주제|카테고리|
-|----|-------------|---------|
+|----|------------------|---------|
 |1주차|암-생물정보학 개론||
-|2주차|
+|2주차|RNAseq와 암|Cytology|
+|3주차|암과 관련된 phylogeny|Phylogeny|
+|4주차|Microarray(SLAMS등)|Genetics|
+|5주차|Biopython|Genetics|
+|6주차|Cancer Diagnosis with Deep learning|Cytology|
+|7주차|Sequencing과 암|Phylogeny|
+|8주차|PRS와 암|Genetics|
